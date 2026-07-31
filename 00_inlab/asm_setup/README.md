@@ -4,6 +4,12 @@ We will be using `x86_64` assembly standard for the duration of the course.
 
 People using an `x86_64` processor can run this natively, but if not, you will be provided access to `mars`/`sl machines` where `nasm` is installed.
 
+### Installing nasm
+```bash
+sudo apt install nasm
+```
+Do this only if running `make` throws an error.
+
 ### Compiling Assembly Programs
 
 Assembly compilation is done in 2 steps:
