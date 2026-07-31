@@ -1,6 +1,6 @@
 
 ## Verilog
-We will be using `icarus-verilog` (iverilog) for simulations and [VerilogHDL/SystemVerilog extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL) for Syntax-Highlighting and [VapourView](https://marketplace.visualstudio.com/items?itemName=lramseyer.vaporview) for observing the waveforms.
+We will be using `icarus-verilog` (iverilog) for simulations and [VerilogHDL/SystemVerilog extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL) for Syntax-Highlighting and [VaporView](https://marketplace.visualstudio.com/items?itemName=lramseyer.vaporview) for observing the waveforms.
 
 
 You can install iverilog using your package manager if you are using Linux/macOS. *For windows we recommend using WSL*, but if you insist you can check [iverilog for windows](https://bleyer.org/icarus/).
