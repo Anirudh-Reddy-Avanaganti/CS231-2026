@@ -18,7 +18,7 @@ sudo dnf install iverilog
 
 ### MacOS
 ```bash
-brew install iverilog
+brew install icarus-verilog
 ```
 ### Installation verification
 Check the version of iverilog to confirm it's properly installed
