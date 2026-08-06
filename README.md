@@ -1,9 +1,10 @@
-## Schedule (Tentative)
+## Schedule
+
 **Slot**     : L4 (Friday 2pm - 5pm)
 
 **Location** : SL-1, SL-2, SL-3
 
-**Seating - Arragnment** : 
+**Seating - Arrangement** : [CS-231 Lab Allocation](https://docs.google.com/spreadsheets/d/1tayAATniMwQ7fh3_62BuHnNRad7Ltvios91gzEG3gZ0/edit?usp=sharing)
 
 <table>
   <thead>
@@ -122,15 +123,14 @@ InLab Tests        |   25   | 10 Labs * 2.5
 Lab Exam I         |   25   | <!-- Verilog and Assembly -->
 Lab Exam II        |   25   | <!-- Assembly and Perf -->
 Lab Exam III       |   25   | <!-- Perf and Champ-sim -->
-OutLab Assignments |   00   | Ungraded but Recommended for Lab exams
+OutLab Assignments |   00   | Ungraded (recommended for lab exams)
 
 - Moodle will be the sole interface for marks and crib reviews.
-- All submissions will be sent immediatly through webmail.
 
-## Attendence Policy
-Attendence of a Lab is marked from submission status of inlabs tests.
+## Attendance Policy
+Lab attendance comes from submission status of inlab tests.
 
-Exemption is provided on submission of a valid reason and evidence through the [Leave Request Form]()
+Please fill this form for any informed absence: [Leave Request Form](https://forms.gle/5RyNdPokXHe5WkaB6).
 
 ## Course Staff
 Post | Person | Contact Info
