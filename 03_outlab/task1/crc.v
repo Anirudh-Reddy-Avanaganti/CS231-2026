@@ -24,6 +24,8 @@ module crc8_serial (
 );
 
     // TODO
+    // NOTE: You need to latch output from crc8_update separately
+    // And keep a latch for storing output `crc` separately
 
 endmodule
 
@@ -79,7 +81,18 @@ module crc_parallel #(
     output [WIDTH-1:0] crc_out
 );
 
-    // TODO
+    // array of registers
+    wire [WIDTH-1:0] crc_stage [0:DATA_WIDTH];
+
+    assign /* TODO */   = crc_in;
+    assign crc_out      = /* TODO */;
+
+    // TODO: write genvar for loop to loop over DATA_WIDTH times and generate hardware for parallel CRC
+    genvar i;
+    generate
+        // TODO
+    endgenerate
+
 
 endmodule
 
